@@ -1,4 +1,4 @@
-package com.thetestingacademy.sampleCheck;
+package com.thetestingacademy;
 
 public class APITest004_BuliderPattenDesignPattern {
 
