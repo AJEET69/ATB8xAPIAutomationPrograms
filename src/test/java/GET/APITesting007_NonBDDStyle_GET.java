@@ -1,4 +1,4 @@
-package com.thetestingacademy;
+package GET;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;
@@ -7,7 +7,7 @@ import io.restassured.RestAssured;
 import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.Test;
 
-public class APITesting006_NonBDDStyle_GET {
+public class APITesting007_NonBDDStyle_GET {
 
    static RequestSpecification r = RestAssured.given();
 

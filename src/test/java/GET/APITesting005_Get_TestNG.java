@@ -1,9 +1,9 @@
-package com.thetestingacademy;
+package GET;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;
 
-public class APITesting_Get_TestNG {
+public class APITesting005_Get_TestNG {
 
     @Test
     public void Test_Get_Request(){
